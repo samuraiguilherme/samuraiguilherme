@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A problem solver and challenger from Brazil</h3>
 
-- 🔭 I’m currently working on [PlaybookUX](https://www.playbookux.com/)
+- 🔭 I’m currently working as an Engineering Manager on [PlaybookUX](https://www.playbookux.com/)
 
-- 🌱 I’m currently learning **Managerial skills**
+- 🌱 I’m currently learning **managerial skills**
 
-- 💬 Ask me about **Systems architecture, systems thinking, management, personal development, spiritualism, full-stack development, surfing, etc**
-
-- 📫 How to reach me **@samuraiguilherme**
+- 💬 Ask me about **systems architecture, systems thinking, management, personal development, spiritualism, full-stack development, surfing, etc**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guilherme-yagui/](https://www.linkedin.com/in/guilherme-yagui/)
 
