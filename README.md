@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">A problem solver and challenger from Brazil</h3>
+<h3 align="center">An entrepreneur from Brazil</h3>
 
-- 🔭 I’m currently working as an Engineering Manager on [PlaybookUX](https://www.playbookux.com/)
+- 🔭 I’m currently working as CTO at [Dropar](https://www.dropar.com.br)
 
-- 🌱 I’m currently learning **managerial skills**
+- 🌱 I’m currently learning **AI and Machine learning**
 
 - 💬 Ask me about **systems architecture, systems thinking, management, personal development, spiritualism, full-stack development, surfing, etc**
 
